@@ -13,6 +13,12 @@ body {
     overflow-x: hidden;
 }
 
+
+/*what does this do? generally, text decoration is underline for the a tag. This makes the decoration none*/
+a {
+    text-decoration: none;
+}
+
 /*THIS IS REALLY COOL*/
 @keyframes animateDown {
     0%, 20%, 50%, 80%, 100% {
