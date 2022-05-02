@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://tokenosopher.github.io/tesla_clone/static/css/main.c2a5159d.css",
-    "main.js": "https://tokenosopher.github.io/tesla_clone/static/js/main.d52c5447.js",
-    "static/media/logo.svg": "https://tokenosopher.github.io/tesla_clone/static/media/logo.db36153e906043854e743ee53cf5fff2.svg",
-    "index.html": "https://tokenosopher.github.io/tesla_clone/index.html",
-    "main.c2a5159d.css.map": "https://tokenosopher.github.io/tesla_clone/static/css/main.c2a5159d.css.map",
-    "main.d52c5447.js.map": "https://tokenosopher.github.io/tesla_clone/static/js/main.d52c5447.js.map"
+    "main.css": "/static/css/main.c2a5159d.css",
+    "main.js": "/static/js/main.640dd23d.js",
+    "static/media/logo.svg": "/static/media/logo.db36153e906043854e743ee53cf5fff2.svg",
+    "index.html": "/index.html",
+    "main.c2a5159d.css.map": "/static/css/main.c2a5159d.css.map",
+    "main.640dd23d.js.map": "/static/js/main.640dd23d.js.map"
   },
   "entrypoints": [
     "static/css/main.c2a5159d.css",
-    "static/js/main.d52c5447.js"
+    "static/js/main.640dd23d.js"
   ]
 }
