@@ -54,7 +54,7 @@ const Home = () => {
                 description={""}
                 backgroundImg={"accessories.jpg"}
                 leftBtnText={"Shop now"}
-
+                rightBtnText={"Learn More"}
             />
         </Container>
     )

@@ -1,6 +1,7 @@
 {
   "name": "tesla_clone",
   "version": "0.1.0",
+  "homepage": "https://tokenosopher.github.io/tesla_clone",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
