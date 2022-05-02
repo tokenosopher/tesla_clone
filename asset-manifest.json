@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tesla_clone/static/css/main.c2a5159d.css",
-    "main.js": "/tesla_clone/static/js/main.1ba925d0.js",
-    "static/media/logo.svg": "/tesla_clone/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/tesla_clone/index.html",
-    "main.c2a5159d.css.map": "/tesla_clone/static/css/main.c2a5159d.css.map",
-    "main.1ba925d0.js.map": "/tesla_clone/static/js/main.1ba925d0.js.map"
+    "main.css": "/static/css/main.c2a5159d.css",
+    "main.js": "/static/js/main.5480ae50.js",
+    "static/media/logo.svg": "/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/index.html",
+    "main.c2a5159d.css.map": "/static/css/main.c2a5159d.css.map",
+    "main.5480ae50.js.map": "/static/js/main.5480ae50.js.map"
   },
   "entrypoints": [
     "static/css/main.c2a5159d.css",
-    "static/js/main.1ba925d0.js"
+    "static/js/main.5480ae50.js"
   ]
 }
